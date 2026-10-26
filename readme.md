@@ -16,8 +16,8 @@
 
 ## Установка
 ```bash
-git clone https://github.com/Zaraki13ken/simple-mp.git
-cd simple-mp
+git clone https://github.com/Zaraki13ken/SSS-by-Aho-Karasik
+cd SSS-by-Aho-Karasik
 ```
 
 ## Использование
